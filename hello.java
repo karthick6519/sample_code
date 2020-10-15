@@ -4,9 +4,7 @@
       int number=8;//It is the number to calculate factorial    
       for(i=1;i<=number;i++){    
           fact=fact*i;    
-      }
-//printing    
+      }    
       System.out.println("Factorial of "+number+" is: "+fact);    
-	System.out.println("Factorial Series");
      }  
     }  
